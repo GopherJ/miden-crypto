@@ -73,12 +73,12 @@ cc = { version = "1.0", optional = true, features = ["parallel"] }
 glob = "0.3"
 
 [patch.crates-io]
-winter-prover = { git = "https://github.com/GopherJ/winterfell", rev = "483672b806b7625f504e224100a9b807290529c4" }
-winter-air = { git = "https://github.com/GopherJ/winterfell", rev = "483672b806b7625f504e224100a9b807290529c4" }
-winter-utils = { git = "https://github.com/GopherJ/winterfell", rev = "483672b806b7625f504e224100a9b807290529c4" }
-winter-verifier = { git = "https://github.com/GopherJ/winterfell", rev = "483672b806b7625f504e224100a9b807290529c4" }
-winter-fri = { git = "https://github.com/GopherJ/winterfell", rev = "483672b806b7625f504e224100a9b807290529c4" }
-winter-crypto = { git = "https://github.com/GopherJ/winterfell", rev = "483672b806b7625f504e224100a9b807290529c4" }
-winter-math = { git = "https://github.com/GopherJ/winterfell", rev = "483672b806b7625f504e224100a9b807290529c4" }
-winter-rand-utils = { git = "https://github.com/GopherJ/winterfell", rev = "483672b806b7625f504e224100a9b807290529c4" }
+winter-prover = { git = "https://github.com/GopherJ/winterfell", rev = "8dec862fbb3cb5bc98856dafade4486c7355d42b" }
+winter-air = { git = "https://github.com/GopherJ/winterfell", rev = "8dec862fbb3cb5bc98856dafade4486c7355d42b" }
+winter-utils = { git = "https://github.com/GopherJ/winterfell", rev = "8dec862fbb3cb5bc98856dafade4486c7355d42b" }
+winter-verifier = { git = "https://github.com/GopherJ/winterfell", rev = "8dec862fbb3cb5bc98856dafade4486c7355d42b" }
+winter-fri = { git = "https://github.com/GopherJ/winterfell", rev = "8dec862fbb3cb5bc98856dafade4486c7355d42b" }
+winter-crypto = { git = "https://github.com/GopherJ/winterfell", rev = "8dec862fbb3cb5bc98856dafade4486c7355d42b" }
+winter-math = { git = "https://github.com/GopherJ/winterfell", rev = "8dec862fbb3cb5bc98856dafade4486c7355d42b" }
+winter-rand-utils = { git = "https://github.com/GopherJ/winterfell", rev = "8dec862fbb3cb5bc98856dafade4486c7355d42b" }
 

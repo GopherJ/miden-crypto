@@ -1146,7 +1146,7 @@ checksum = "589f6da84c646204747d1270a2a5661ea66ed1cced2631d546fdfb155959f9ec"
 [[package]]
 name = "winter-crypto"
 version = "0.9.0"
-source = "git+https://github.com/GopherJ/winterfell?rev=483672b806b7625f504e224100a9b807290529c4#483672b806b7625f504e224100a9b807290529c4"
+source = "git+https://github.com/GopherJ/winterfell?rev=8dec862fbb3cb5bc98856dafade4486c7355d42b#8dec862fbb3cb5bc98856dafade4486c7355d42b"
 dependencies = [
  "blake3",
  "sha3",
@@ -1157,7 +1157,7 @@ dependencies = [
 [[package]]
 name = "winter-math"
 version = "0.9.0"
-source = "git+https://github.com/GopherJ/winterfell?rev=483672b806b7625f504e224100a9b807290529c4#483672b806b7625f504e224100a9b807290529c4"
+source = "git+https://github.com/GopherJ/winterfell?rev=8dec862fbb3cb5bc98856dafade4486c7355d42b#8dec862fbb3cb5bc98856dafade4486c7355d42b"
 dependencies = [
  "serde",
  "winter-utils",
@@ -1166,7 +1166,7 @@ dependencies = [
 [[package]]
 name = "winter-rand-utils"
 version = "0.9.0"
-source = "git+https://github.com/GopherJ/winterfell?rev=483672b806b7625f504e224100a9b807290529c4#483672b806b7625f504e224100a9b807290529c4"
+source = "git+https://github.com/GopherJ/winterfell?rev=8dec862fbb3cb5bc98856dafade4486c7355d42b#8dec862fbb3cb5bc98856dafade4486c7355d42b"
 dependencies = [
  "rand",
  "winter-utils",
@@ -1175,7 +1175,7 @@ dependencies = [
 [[package]]
 name = "winter-utils"
 version = "0.9.0"
-source = "git+https://github.com/GopherJ/winterfell?rev=483672b806b7625f504e224100a9b807290529c4#483672b806b7625f504e224100a9b807290529c4"
+source = "git+https://github.com/GopherJ/winterfell?rev=8dec862fbb3cb5bc98856dafade4486c7355d42b#8dec862fbb3cb5bc98856dafade4486c7355d42b"
 
 [[package]]
 name = "zerocopy"
@@ -1201,19 +1201,19 @@ dependencies = [
 [[patch.unused]]
 name = "winter-air"
 version = "0.9.0"
-source = "git+https://github.com/GopherJ/winterfell?rev=483672b806b7625f504e224100a9b807290529c4#483672b806b7625f504e224100a9b807290529c4"
+source = "git+https://github.com/GopherJ/winterfell?rev=8dec862fbb3cb5bc98856dafade4486c7355d42b#8dec862fbb3cb5bc98856dafade4486c7355d42b"
 
 [[patch.unused]]
 name = "winter-fri"
 version = "0.9.0"
-source = "git+https://github.com/GopherJ/winterfell?rev=483672b806b7625f504e224100a9b807290529c4#483672b806b7625f504e224100a9b807290529c4"
+source = "git+https://github.com/GopherJ/winterfell?rev=8dec862fbb3cb5bc98856dafade4486c7355d42b#8dec862fbb3cb5bc98856dafade4486c7355d42b"
 
 [[patch.unused]]
 name = "winter-prover"
 version = "0.9.0"
-source = "git+https://github.com/GopherJ/winterfell?rev=483672b806b7625f504e224100a9b807290529c4#483672b806b7625f504e224100a9b807290529c4"
+source = "git+https://github.com/GopherJ/winterfell?rev=8dec862fbb3cb5bc98856dafade4486c7355d42b#8dec862fbb3cb5bc98856dafade4486c7355d42b"
 
 [[patch.unused]]
 name = "winter-verifier"
 version = "0.9.0"
-source = "git+https://github.com/GopherJ/winterfell?rev=483672b806b7625f504e224100a9b807290529c4#483672b806b7625f504e224100a9b807290529c4"
+source = "git+https://github.com/GopherJ/winterfell?rev=8dec862fbb3cb5bc98856dafade4486c7355d42b#8dec862fbb3cb5bc98856dafade4486c7355d42b"
